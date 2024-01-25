@@ -2,7 +2,7 @@ import { BsBoxSeam } from "react-icons/bs";
 
 const Services = () => {
     return (
-        <div className="bg-[#edf0f3] w-full px-10 md:px-10 lg:px-28 py-10 md:py-16">
+        <div id='about' className="bg-[#edf0f3] w-full px-10 md:px-10 lg:px-28 py-10 md:py-16">
             <div className="flex flex-col gap-y-5 items-center">
                 <p className="text-[#305fbe] font-semibold font-poppins text-center text-sm md:text-xl">
                     ABOUT US

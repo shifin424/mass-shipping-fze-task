@@ -4,7 +4,7 @@ import Profile from "../assets/Images/profile.png";
 
 const Banner = () => {
     return (
-        <div
+        <div id="banner"
             className="bg-cover bg-no-repeat bg-center p-3 px-4  md:px-28 h-[35rem]"
             style={{ backgroundImage: `url(${BackgroundImage})` }}
         >

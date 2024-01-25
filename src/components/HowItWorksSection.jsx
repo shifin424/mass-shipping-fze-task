@@ -4,7 +4,7 @@ import { BsBoxSeam } from "react-icons/bs";
 
 const HowItWorksSection = () => {
     return (
-        <div>
+        <div id='services' >
             <div className="relative px-10 md:px-28 mt-10 md:mb-20 md:mt-20 flex flex-col md:flex-row">
                 <div className="md:w-[41rem] h-[18rem] md:h-[25rem]  z-0">
                     <img src={Service} alt="" className="w-full h-auto md:max-w-full md:h-full  rounded-md" />
@@ -61,7 +61,7 @@ const HowItWorksSection = () => {
                         <BsBoxSeam className="w-8 text-white mt-2 h-7" />
                     </div>
                     <h1 className="text-[#121d50] text-lg md:text-xl lg:text-4xl font-mono font-bold mt-4">
-                       SCHEDULE PICK-UP
+                       SCHEDULE PICK
                     </h1>
                     <p className="text-xs text-center md:text-sm lg:text-base mt-4">
                         We believe in providing our clients with <br/> personalized and efficient 

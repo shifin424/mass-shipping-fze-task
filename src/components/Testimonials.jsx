@@ -4,7 +4,7 @@ import { ImQuotesLeft } from "react-icons/im";
 
 const Testimonial = () => {
     return (
-        <div className="relative bg-[#edf0f3] h-auto pb-14 pt-20 px-10 md:px-10 lg:px-20 xl:px-32 2xl:px-48">
+        <div id='gallery' className="relative bg-[#edf0f3] h-auto pb-14 pt-20 px-10 md:px-10 lg:px-20 xl:px-32 2xl:px-48">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 gap-y-10 md:gap-12 mx-auto">
                 <div className="p-2 relative">
                     <div>
