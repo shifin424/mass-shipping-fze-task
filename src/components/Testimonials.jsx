@@ -40,12 +40,11 @@ const Testimonial = () => {
                         </h1>
                     </div>
                 </div>
-                <div className="flex flex-col space-y-8">
-                    {/* Additional testimonials */}
+                <div className="flex flex-col space-y-8  items-end">
                     {Array.from({ length: 3 }).map((_, index) => (
                         <div
                             key={index}
-                            className="bg-white p-3 md:ml-20 flex md:mt-10 flex-col justify-around rounded-md md:w-full max-w-[28rem]"
+                            className="bg-white  p-3  flex md:mt-10 flex-col justify-around rounded-md md:w-full max-w-[28rem]"
                         >
                             <div className="flex mb-2">
                                 <IoStar className="text-[#1195d6] mr-1" />

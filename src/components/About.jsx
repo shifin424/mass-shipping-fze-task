@@ -40,7 +40,7 @@ const About = () => {
                     </div>
                 </div>
             </div>
-            <div className="md:flex flex-col md:flex-row md:justify-between text-2xl font-semibold bg-white px-10 md:px-28 pb-20">
+            <div className="md:flex flex-col items-center  flex-wrap gap-2 md:flex-row md:justify-between text-2xl font-semibold bg-white px-10 md:px-28 pb-20">
                 <div className="bg-[#090e23] rounded-md flex gap-x-6 justify-center p-5 w-full md:w-80 h-34 text-white mb-5 md:mb-0">
                     <h1 className="mb-2 border-r pr-4 border-dashed  pt-4 md:mb-0">01</h1>
                     <h1 className="text-left">

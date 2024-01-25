@@ -7,6 +7,7 @@ import TopSection from "../components/TopSection";
 import Brands from "../components/Brands";
 import Services from "../components/Services";
 import VideoSection from "../components/VideoSection";
+import Footer from "../components/Footer";
 
 const HomePage = () => {
     return (
@@ -20,7 +21,7 @@ const HomePage = () => {
             <HowItWorksSection/>
             <VideoSection/>
             <Testimonial/>
-            
+            <Footer/>
         </div>
     )
 }
