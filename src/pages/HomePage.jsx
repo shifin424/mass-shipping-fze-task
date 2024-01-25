@@ -5,8 +5,8 @@ import NavBar from "../components/NavBar";
 import Testimonial from "../components/Testimonials";
 import TopSection from "../components/TopSection";
 import Brands from "../components/Brands";
-import Services from "../components/services";
-import VideoSection from "../components/videoSection";
+import Services from "../components/Services";
+import VideoSection from "../components/VideoSection";
 
 const HomePage = () => {
     return (
