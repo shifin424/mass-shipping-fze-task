@@ -18,7 +18,7 @@ const Services = () => {
                     className="bg-white p-8 rounded-md flex flex-col justify-evenly h-60 hover:bg-[#121d50] text-[#121d50] hover:text-white"
                 >
                     <div className="w-16 flex justify-center pt-2 rounded-md bg-[#1195d6] h-16">
-                        <BsBoxSeam className="w-8 mt-1 h-9" />
+                        <BsBoxSeam className="w-8 text-white mt-1 h-9" />
                     </div>
                     <h1 className="font-mono font-bold ">OCEAN SHIPPING</h1>
                     <p className="text-sm">
@@ -32,9 +32,9 @@ const Services = () => {
                     className="bg-white p-8 rounded-md flex flex-col justify-evenly h-60 hover:bg-[#121d50] text-[#121d50] hover:text-white"
                 >
                     <div className="w-16 flex justify-center pt-2 rounded-md bg-[#1195d6] h-16">
-                        <BsBoxSeam className="w-8 mt-1 h-9" />
+                        <BsBoxSeam className="w-8 text-white mt-1 h-9" />
                     </div>
-                    <h1 className="font-mono font-bold ">OCEAN SHIPPING</h1>
+                    <h1 className="font-mono font-bold ">AIR SHIPPING</h1>
                     <p className="text-sm">
                         we believe in providing our clients with <br />
                         personalized and efficient logistics <br />
@@ -45,23 +45,9 @@ const Services = () => {
                     className="bg-white p-8 rounded-md flex flex-col justify-evenly h-60 hover:bg-[#121d50] text-[#121d50] hover:text-white"
                 >
                     <div className="w-16 flex justify-center pt-2 rounded-md bg-[#1195d6] h-16">
-                        <BsBoxSeam className="w-8 mt-1 h-9" />
+                        <BsBoxSeam className="w-8  text-white mt-1 h-9" />
                     </div>
-                    <h1 className="font-mono font-bold ">OCEAN SHIPPING</h1>
-                    <p className="text-sm">
-                        we believe in providing our clients with <br />
-                        personalized and efficient logistics <br />
-                        solutions that meet their unique needs.
-                    </p>
-                </div>
-
-                <div
-                    className="bg-white p-8 rounded-md flex flex-col justify-evenly h-60 hover:bg-[#121d50] text-[#121d50] hover:text-white"
-                >
-                    <div className="w-16 flex justify-center pt-2 rounded-md bg-[#1195d6] h-16">
-                        <BsBoxSeam className="w-8 mt-1 h-9" />
-                    </div>
-                    <h1 className="font-mono font-bold ">OCEAN SHIPPING</h1>
+                    <h1 className="font-mono font-bold ">TRUCK SHIPPING</h1>
                     <p className="text-sm">
                         we believe in providing our clients with <br />
                         personalized and efficient logistics <br />
@@ -73,9 +59,9 @@ const Services = () => {
                     className="bg-white p-8 rounded-md flex flex-col justify-evenly h-60 hover:bg-[#121d50] text-[#121d50] hover:text-white"
                 >
                     <div className="w-16 flex justify-center pt-2 rounded-md bg-[#1195d6] h-16">
-                        <BsBoxSeam className="w-8 mt-1 h-9" />
+                        <BsBoxSeam className="w-8 text-white  mt-1 h-9" />
                     </div>
-                    <h1 className="font-mono font-bold ">OCEAN SHIPPING</h1>
+                    <h1 className="font-mono font-bold ">CUSTOM CLEARENCE</h1>
                     <p className="text-sm">
                         we believe in providing our clients with <br />
                         personalized and efficient logistics <br />
@@ -87,9 +73,23 @@ const Services = () => {
                     className="bg-white p-8 rounded-md flex flex-col justify-evenly h-60 hover:bg-[#121d50] text-[#121d50] hover:text-white"
                 >
                     <div className="w-16 flex justify-center pt-2 rounded-md bg-[#1195d6] h-16">
-                        <BsBoxSeam className="w-8 mt-1 h-9" />
+                        <BsBoxSeam className="w-8 text-white mt-1 h-9" />
                     </div>
-                    <h1 className="font-mono font-bold ">OCEAN SHIPPING</h1>
+                    <h1 className="font-mono font-bold ">FREIGHT FORWARDING</h1>
+                    <p className="text-sm">
+                        we believe in providing our clients with <br />
+                        personalized and efficient logistics <br />
+                        solutions that meet their unique needs.
+                    </p>
+                </div>
+
+                <div
+                    className="bg-white p-8 rounded-md flex flex-col justify-evenly h-60 hover:bg-[#121d50] text-[#121d50] hover:text-white"
+                >
+                    <div className="w-16 flex justify-center pt-2 rounded-md bg-[#1195d6] h-16">
+                        <BsBoxSeam className="w-8 text-white mt-1 h-9" />
+                    </div>
+                    <h1 className="font-mono font-bold ">INSURANCE</h1>
                     <p className="text-sm">
                         we believe in providing our clients with <br />
                         personalized and efficient logistics <br />

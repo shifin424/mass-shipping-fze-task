@@ -13,7 +13,7 @@ const VideoSection = () => {
     return (
         <div
             className="relative w-full bg-blue-500 flex flex-col justify-center items-center gap-y-10 h-[40rem]
-             bg-cover mb-10 bg-no-repeat bg-center"
+             bg-cover  bg-no-repeat bg-center"
             style={{ backgroundImage: `url(${BackgroundImage})` }}
         >
             {isVideoPlaying ? (
