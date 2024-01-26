@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
     git clone [repository_url]
     ```
 
-2. Change directory to the client folder:
+2. Change directory to the my-project folder:
 
     ```bash
     cd my-project
