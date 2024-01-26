@@ -8,9 +8,7 @@ export default function useClickOutside(callback) {
       if (ref.current && !ref.current.contains(event.target)) {
         callback();
       }
-      console.log("working>>")
     };
-
     document.addEventListener("click", handleClickOutside);
 
     return () => {

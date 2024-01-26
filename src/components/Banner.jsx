@@ -4,16 +4,15 @@ import Profile from "../assets/Images/profile.png";
 
 const Banner = () => {
     return (
-        <div id="banner"
+        <div
+            id="banner"
             className="bg-cover bg-no-repeat bg-center p-3 px-10  md:px-28 h-[35rem]"
             style={{ backgroundImage: `url(${BackgroundImage})` }}
         >
             <div className="flex flex-col gap-y-5 justify-around mt-8 h-60">
-                <p className="text-white text-sm md:text-base lg:text-lg">
-                    WE ARE THE BEST LOGISTIC COMPANY
-                </p>
+                <p className="text-white text-sm md:text-base lg:text-lg">WE ARE THE BEST LOGISTIC COMPANY</p>
                 <h1 className="text-white text-2xl md:text-5xl font-sans font-bold">
-                    STREAMLINE YOUR SHIPPING WITH <br/> OUR CARGO SERVICES
+                    STREAMLINE YOUR SHIPPING WITH <br /> OUR CARGO SERVICES
                 </h1>
                 <p className="text-white text-xs md:text-sm lg:text-base">
                     Simplify your shipping process and make it more efficient with our <br />

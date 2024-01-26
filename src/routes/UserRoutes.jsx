@@ -4,11 +4,11 @@ import HomePage from '../pages/HomePage';
 
 
 const userRoutes = () => {
-    return(
+    return (
         <div>
-              <Routes>
-              <Route path="/" element={<HomePage/>}></Route>
-              </Routes>
+            <Routes>
+                <Route path="/" element={<HomePage />}></Route>
+            </Routes>
         </div>
     )
 }

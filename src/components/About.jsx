@@ -6,7 +6,7 @@ import { LuAnchor } from "react-icons/lu";
 const About = () => {
     return (
         <>
-            <div  className="relative px-10 lg:px-28 mt-10 md:mb-20 md:mt-20  flex flex-col md:flex-row">
+            <div className="relative px-10 lg:px-28 mt-10 md:mb-20 md:mt-20  flex flex-col md:flex-row">
                 <div className="flex flex-col justify-between md:w-1/2 md:pr-6 gap-y-6 relative ">
                     <p className="text-[#305fbe] font-semibold font-poppins text-sm md:text-xl">ABOUT US</p>
                     <h1 className="text-[#121d50] gap-x-4 text-lg md:text-xl lg:text-4xl font-mono font-bold">

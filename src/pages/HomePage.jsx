@@ -13,19 +13,19 @@ import ContactUs from "../components/ContactUs";
 const HomePage = () => {
     return (
         <div>
-            <TopSection/>
-            <NavBar/>
-            <Banner/>
-            <About/>
-            <Services/>
-            <Brands/>
-            <HowItWorksSection/>
-            <VideoSection/>
-            <Testimonial/>
-            <ContactUs/>
-            <Footer/>
+            <TopSection />
+            <NavBar />
+            <Banner />
+            <About />
+            <Services />
+            <Brands />
+            <HowItWorksSection />
+            <VideoSection />
+            <Testimonial />
+            <ContactUs />
+            <Footer />
         </div>
-    )
-}
+    );
+};
 
 export default HomePage;

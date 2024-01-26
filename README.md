@@ -1,8 +1,46 @@
-# React + Vite
+# MASS SHIPPING FZE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+This project is a front-end development task for HOZTOX COMPANY, primarily built using React with Tailwind CSS for design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+- React
+- Tailwind CSS
+
+## Hosting
+
+The project is hosted on Netlify. You can access it live [here](https://mass-shipping-fze.netlify.app).
+
+## How to Run Locally
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone [repository_url]
+    ```
+
+2. Change directory to the client folder:
+
+    ```bash
+    cd my-project
+    ```
+
+3. Install project dependencies:
+
+    ```bash
+    npm install
+    ```
+
+4. Run the project using the React Vite development server:
+
+    ```bash
+    npm run dev
+    ```
+
+Now, you should be able to access the project locally by navigating to the specified URL in your browser. If you encounter any issues, make sure you have Node.js and npm installed on your machine.
+
+Feel free to explore the code and provide any feedback or suggestions!
