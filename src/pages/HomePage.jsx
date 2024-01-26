@@ -14,7 +14,7 @@ const HomePage = () => {
     return (
         <div>
             <TopSection />
-            <NavBar />
+            <NavBar  />
             <Banner />
             <About />
             <Services />

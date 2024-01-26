@@ -12,12 +12,11 @@ const NavBar = () => {
     };
 
     const clickOutsideRef = useClickOutside(() => {
-        console.log("hello iam comming..");
         setShowMenu(false);
     });
 
     return (
-        <div className="bg-[#121d50] fixed top-0 w-full z-50 flex justify-between items-center h-[4rem] p-3 md:px-28">
+        <div className="bg-[#121d50] sticky top-0 w-full z-50 flex justify-between items-center h-[4rem] p-3 md:px-28">
             <div>
                 <img className="w-15 h-10 pb-1" src={Logo} alt="logo" />
             </div>
