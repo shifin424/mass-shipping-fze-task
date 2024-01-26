@@ -40,7 +40,7 @@ const NavBar = () => {
                     <Link to="gallery" spy={true} smooth={true} duration={800} offset={-70}>
                         <li className="text-white  hover:text-[#3951ca] cursor-pointer hidden md:block">GALLERY</li>
                     </Link>
-                    <Link to="banner" spy={true} smooth={true} duration={800} offset={-70}>
+                    <Link to="contactUs" spy={true} smooth={true} duration={800} offset={-70}>
                         <li className="text-white hover:text-[#3951ca] cursor-pointer hidden md:block">CONTACT US</li>
                     </Link>
                 </ul>
@@ -62,7 +62,7 @@ const NavBar = () => {
                         <Link to="gallery" spy={true} smooth={true} duration={800} offset={-70}>
                             <li className="px-4 py-2 hover:bg-blue-200">GALLERY</li>
                         </Link>
-                        <Link to="banner" spy={true} smooth={true} duration={800} offset={-70}>
+                        <Link to="contactUs" spy={true} smooth={true} duration={800} offset={-60}>
                             <li className="px-4 py-2 hover:bg-blue-200">CONTACT US</li>
                         </Link>
                     </ul>

@@ -8,6 +8,7 @@ import Brands from "../components/Brands";
 import Services from "../components/Services";
 import VideoSection from "../components/VideoSection";
 import Footer from "../components/Footer";
+import ContactUs from "../components/ContactUs";
 
 const HomePage = () => {
     return (
@@ -21,6 +22,7 @@ const HomePage = () => {
             <HowItWorksSection/>
             <VideoSection/>
             <Testimonial/>
+            <ContactUs/>
             <Footer/>
         </div>
     )
